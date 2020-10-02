@@ -1,2 +1,2 @@
-This is the title
-Contents go here
+Lab 3 Finished
+I finished lab 3. I learned about JavaBeans, JSPs, EL and servlet routing.
